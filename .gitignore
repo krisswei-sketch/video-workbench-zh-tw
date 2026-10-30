@@ -1,0 +1,22 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env*
+.DS_Store
+._*
+release/
+.venv/
+
+# Generated source provenance; never commit local receipts.
+/release-source.json
+
+.tools/
+.local-data/
+
+# Community edition: local and generated output must not be published.
+/audit/
+/public/openscreen/
+/edition-acceptance/
+/.vite-cache*/
+/vendor/openscreen/.vite-cache*/
+*.log

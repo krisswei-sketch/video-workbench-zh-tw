@@ -1,0 +1,10 @@
+{
+  "name": "剪輯工作台（非官方繁中版）",
+  "appId": "community.tw.video-workbench",
+  "version": "2026.10.30-tw2",
+  "sourceUrl": "https://github.com/krisswei-sketch/video-workbench-zh-tw",
+  "upstream": "https://github.com/saf1102/opentake-standard",
+  "upstreamCommit": "a93cb0c6c2c0adc5d2a521fab38ab44912df5934",
+  "updatesEnabled": false,
+  "sourcePublished": true
+}

@@ -1,0 +1,1 @@
+import {Link} from 'react-router'; import type {QuickEditActivity} from './QuickEditLive'; export function QuickEdit(_props: {onActivity: (activity: QuickEditActivity | null) => void}) {return <Link to="/pro/koubo">瞭解口播剪輯 Pro</Link>}

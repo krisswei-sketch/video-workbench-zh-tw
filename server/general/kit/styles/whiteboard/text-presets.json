@@ -1,0 +1,197 @@
+{
+  "presets": {
+    "白板題字": {
+      "font": "Long Cang",
+      "fontFile": "LongCang-Regular.ttf",
+      "fallback": "Kaiti SC",
+      "layout": "content",
+      "weight": 400,
+      "size": 0.078,
+      "color": "#23262C",
+      "accent": "#D97757",
+      "lineHeight": 1.3,
+      "roles": [
+        "title"
+      ]
+    },
+    "手寫字幕": {
+      "font": "Architects Daughter",
+      "fontFile": "ArchitectsDaughter-Regular.ttf",
+      "fallback": "Kaiti SC",
+      "layout": "content",
+      "weight": 400,
+      "size": 0.042,
+      "color": "#23262C",
+      "accent": "#2A5CB3",
+      "lineHeight": 1.3,
+      "roles": [
+        "caption"
+      ],
+      "box": true,
+      "boxColor": "rgba(250,249,241,.94)",
+      "accentStyle": "underline"
+    },
+    "過程手注": {
+      "font": "Architects Daughter",
+      "fontFile": "ArchitectsDaughter-Regular.ttf",
+      "fallback": "Kaiti SC",
+      "layout": "content",
+      "weight": 400,
+      "size": 0.03,
+      "color": "#2A5CB3",
+      "accent": "#D97757",
+      "lineHeight": 1.3,
+      "roles": [
+        "label"
+      ]
+    },
+    "藍筆題字": {
+      "font": "Long Cang",
+      "fontFile": "LongCang-Regular.ttf",
+      "fallback": "Kaiti SC",
+      "layout": "content",
+      "weight": 400,
+      "lineHeight": 1.3,
+      "size": 0.078,
+      "color": "#2A5CB3",
+      "accent": "#D97757",
+      "roles": [
+        "title"
+      ]
+    },
+    "橙線圈重點": {
+      "font": "Long Cang",
+      "fontFile": "LongCang-Regular.ttf",
+      "fallback": "Kaiti SC",
+      "layout": "content",
+      "weight": 400,
+      "lineHeight": 1.3,
+      "size": 0.078,
+      "color": "#23262C",
+      "accent": "#D97757",
+      "accentStyle": "underline",
+      "roles": [
+        "title"
+      ]
+    },
+    "磁貼標題": {
+      "font": "Long Cang",
+      "fontFile": "LongCang-Regular.ttf",
+      "fallback": "Kaiti SC",
+      "layout": "content",
+      "weight": 400,
+      "lineHeight": 1.3,
+      "size": 0.07,
+      "color": "#23262C",
+      "accent": "#2A5CB3",
+      "box": true,
+      "boxColor": "#FFFFFF",
+      "radius": 0.12,
+      "boxShadow": "0 .08em .22em rgba(35,38,44,.28)",
+      "roles": [
+        "title"
+      ]
+    },
+    "短劃標籤": {
+      "font": "Architects Daughter",
+      "fontFile": "ArchitectsDaughter-Regular.ttf",
+      "fallback": "Kaiti SC",
+      "layout": "content",
+      "weight": 400,
+      "lineHeight": 1.3,
+      "size": 0.042,
+      "color": "#23262C",
+      "accent": "#2A5CB3",
+      "box": true,
+      "boxColor": "rgba(250,249,241,.94)",
+      "radius": 0.35,
+      "marker": "dash",
+      "markerColor": "#D97757",
+      "roles": [
+        "caption"
+      ]
+    },
+    "板上直寫": {
+      "font": "Architects Daughter",
+      "fontFile": "ArchitectsDaughter-Regular.ttf",
+      "fallback": "Kaiti SC",
+      "layout": "content",
+      "weight": 400,
+      "lineHeight": 1.3,
+      "size": 0.042,
+      "color": "#23262C",
+      "accent": "#D97757",
+      "roles": [
+        "caption"
+      ]
+    },
+    "藍筆旁白": {
+      "font": "Architects Daughter",
+      "fontFile": "ArchitectsDaughter-Regular.ttf",
+      "fallback": "Kaiti SC",
+      "layout": "content",
+      "weight": 400,
+      "lineHeight": 1.3,
+      "size": 0.042,
+      "color": "#2A5CB3",
+      "accent": "#D97757",
+      "accentStyle": "underline",
+      "roles": [
+        "caption"
+      ]
+    },
+    "橙色批註": {
+      "font": "Architects Daughter",
+      "fontFile": "ArchitectsDaughter-Regular.ttf",
+      "fallback": "Kaiti SC",
+      "layout": "content",
+      "weight": 400,
+      "lineHeight": 1.3,
+      "size": 0.03,
+      "color": "#D97757",
+      "accent": "#23262C",
+      "roles": [
+        "label"
+      ]
+    },
+    "磁貼標籤": {
+      "font": "Architects Daughter",
+      "fontFile": "ArchitectsDaughter-Regular.ttf",
+      "fallback": "Kaiti SC",
+      "layout": "content",
+      "weight": 400,
+      "lineHeight": 1.3,
+      "size": 0.03,
+      "color": "#23262C",
+      "accent": "#D97757",
+      "box": true,
+      "boxColor": "#FFFFFF",
+      "radius": 0.15,
+      "boxShadow": "0 .08em .22em rgba(35,38,44,.28)",
+      "roles": [
+        "label"
+      ]
+    },
+    "藍框標註": {
+      "font": "Architects Daughter",
+      "fontFile": "ArchitectsDaughter-Regular.ttf",
+      "fallback": "Kaiti SC",
+      "layout": "content",
+      "weight": 400,
+      "lineHeight": 1.3,
+      "size": 0.03,
+      "color": "#2A5CB3",
+      "accent": "#D97757",
+      "box": true,
+      "boxColor": "rgba(255,255,255,0)",
+      "radius": 0.4,
+      "boxBorder": ".08em solid #2A5CB3",
+      "roles": [
+        "label"
+      ]
+    }
+  },
+  "finishes": [
+    "none"
+  ]
+}
